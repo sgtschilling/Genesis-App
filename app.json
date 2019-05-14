@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Genesis",
-    "slug": "my-app",
+    "slug": "genesis-app",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
